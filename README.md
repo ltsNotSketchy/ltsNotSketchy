@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ltsNotSketchy
 - 👀 I’m interested in making my own custom Vrchat Model.
 - 🌱 I’m currently learning how to use blender and other programs
-- 💞️ I’m looking to connect and become more comfortable in my own skin. Also get help, and answers to help fix my problems.
+- 💞️ I’m looking to connect and become more comfortable in my own skin. Also get help, and answers to fix my problems.
 - 📫 How to reach me - in this account
 
 <!---
